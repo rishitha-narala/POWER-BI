@@ -22,6 +22,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                                                                 | Link                                    |
 |-----------------------------------------------------------------------------|-----------------------------------------|
-| Mini Project: Blinkit Sales Dashboard – Power BI summary of sales performance, key metrics, and visual insights by item, outlet, and location. | [View Project](]https://github.com/yourusername/blinkit-sales-dashboard)) |
+| Mini Project: Blinkit Sales Dashboard – Power BI summary of sales performance, key metrics, and visual insights by item, outlet, and location. | [View Project](https://github.com/rishitha-narala/POWER-BI/blob/2a10ff8bb24fb4fe5c9d93fbeeaf348879588b75/power%20bi%20mini%20project.pbix)) |
 | Final Project: Hospital Emergency Room Dashboard – Power BI analysis of ER operations, patient flow, wait times, demographics, and admissions across monthly and consolidated views. | [View Project](https://github.com/yourusername/hospital-er-dashboard) |
 
